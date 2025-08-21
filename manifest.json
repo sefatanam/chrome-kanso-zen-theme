@@ -1,0 +1,43 @@
+{
+  "manifest_version": 3,
+  "name": "Kanso Zen ThemeX",
+  "version": "1.0.0",
+  "description": "Authentic Kanso Zen theme inspired by kanso.nvim - minimalist design with carefully crafted colors",
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png", 
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [9, 14, 19],
+      "frame_inactive": [9, 14, 19],
+      "frame_incognito": [9, 14, 19],
+      "frame_incognito_inactive": [9, 14, 19],
+      "toolbar": [4, 21, 39],
+      "tab_text": [197, 201, 199],
+      "tab_background_text": [113, 124, 124],
+      "bookmark_text": [197, 201, 199],
+      "ntp_background": [9, 14, 19],
+      "ntp_text": [197, 201, 199],
+      "ntp_link": [127, 180, 202],
+      "ntp_section": [9, 14, 19],
+      "ntp_section_text": [164, 167, 164],
+      "ntp_section_link": [152, 187, 108],
+      "button_background": [9, 14, 19],
+      "omnibox_background": [9, 14, 19],
+      "omnibox_text": [197, 201, 199],
+      "control_background": [9, 14, 19],
+      "tab_background": [9, 14, 19]
+    },
+    "tints": {
+      "buttons": [0.19, 0.13, 0.33],
+      "frame": [0.58, 0.40, 0.07],
+      "frame_inactive": [0.58, 0.29, 0.15],
+      "frame_incognito": [0.58, 0.35, 0.11],
+      "frame_incognito_inactive": [0.58, 0.25, 0.18],
+      "background_tab": [0.58, 0.20, 0.15]
+    }
+  }
+}

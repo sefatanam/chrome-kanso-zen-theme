@@ -1,0 +1,27 @@
+{
+  "name": "kanso-zen-chrome-theme",
+  "version": "1.0.0",
+  "description": "A minimalist Zen-inspired Chrome theme with balanced color harmony",
+  "scripts": {
+    "build": "node build.js",
+    "validate": "node -e \"require('./build.js').validateManifest()\"",
+    "debug": "node debug-theme.js"
+  },
+  "keywords": [
+    "chrome-theme",
+    "theme",
+    "zen",
+    "minimalist",
+    "kanso",
+    "nordic"
+  ],
+  "author": "Sefat",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sefat/chrome-kanso-zen-theme.git"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
