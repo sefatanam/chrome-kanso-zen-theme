@@ -1,0 +1,16 @@
+{
+  "name": "Kanso Zen Browser Theme",
+  "version": "1.0.0",
+  "description": "Native CSS theme for Zen Browser using authentic Kanso colors",
+  "files": [
+    "userChrome.css",
+    "userContent.css"
+  ],
+  "installation": "ZEN_INSTALL.md",
+  "buildDate": "2025-08-21T17:37:34.655Z",
+  "compatibility": {
+    "zenBrowser": "latest",
+    "firefox": "90+",
+    "userChromeCSS": true
+  }
+}
